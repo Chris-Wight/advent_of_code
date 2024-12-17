@@ -1,7 +1,7 @@
 # Advent of Code - Christmas Kata's
-> Christmas themes Kata's - Practice using javascript language
+> Christmas themed Kata's - Practice using javascript language.
 <!-- -->
-> Practice increasing levels of code challenges.
+> Practice increasing difficulty levels from varied code challenges.
 
 ## Current Status
 Ongoing.
